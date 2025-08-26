@@ -1,0 +1,1 @@
+This repository consists of basic python code that everyone should know to understand its core concepts, some inbuilt functions are new andd used without any definitions so use an AI for knowing those details :)
