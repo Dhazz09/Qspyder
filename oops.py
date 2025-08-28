@@ -13,3 +13,6 @@ mob1.storage="128gb"
 print(Mobile.storage)
 print(mob.storage)
 print(mob1.storage)
+Mobile.storage="1T"
+print(mob.storage)
+print(mob1.storage)
