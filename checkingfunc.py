@@ -1,1 +1,1 @@
-print(dir(str))
+print(dir(tuple))
