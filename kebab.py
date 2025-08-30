@@ -1,4 +1,4 @@
-# 🔥 Triple Logic Dictionary Builder (Nested for loop edition)
+# Triple Logic Dictionary Builder (Nested for loop edition)
 
 S = 'kabab is love'
 words = []
@@ -26,4 +26,5 @@ for w in words:
             even_chars += ch
         index += 1
     Out[w] = [reversed_word, vowel_count, even_chars]
+
 print(f" Output: {Out}")
