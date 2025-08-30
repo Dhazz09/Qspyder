@@ -1,4 +1,4 @@
-# 🎯 Middle Value String Checker (Nested elif edition)
+# Middle Value String Checker (Nested elif edition)
 
 
 my_list = ["Java", 42, "Python", "MidString", 99]
@@ -14,4 +14,5 @@ if len(my_list) % 2 != 0:
     else:
         print(" Middle value is not a string. Skipping output.")
 else:
+
     print("List has even length. No single middle value.")
