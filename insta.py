@@ -1,4 +1,4 @@
-# 🔐 Insta Login Simulator (Nested if-else edition)
+# Insta Login Simulator (Nested if-else edition)
 
 # Predefined valid credentials
 valid_username = "dhazz_insta"
@@ -12,4 +12,5 @@ if username == valid_username:
     else:
         print(" Incorrect password. Try again or reset.")
 else:
+
     print(" Invalid username. Access denied.")
