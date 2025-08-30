@@ -1,4 +1,4 @@
-# 🔍 Vowel Counter Dictionary (Nested for loop edition)
+# Vowel Counter Dictionary (Nested for loop edition)
 
 
 S = 'power star'
@@ -18,4 +18,5 @@ for w in words:
         if c.lower() in 'aeiou':
             vowel_count += 1
     Out[w] = vowel_count
+
 print(f"Output: {Out}")
