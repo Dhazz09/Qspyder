@@ -1,3 +1,4 @@
+#program to check whether the datatypes are mutable or not
 def is_mute(data):
     try:
         a=id(data)
@@ -20,3 +21,4 @@ for i in d:
         print(f"{i} is MUTABLE and it belongs to {type(i)} ")    
     else:
         print(f"{i} is NON-MUTABLE and it belongs to {type(i)}")
+
