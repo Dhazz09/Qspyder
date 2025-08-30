@@ -1,3 +1,4 @@
+#core concept of oops
 class Mobile:       #class declaration
     storage="512gb"
     camera="8k"
@@ -15,4 +16,5 @@ print(mob.storage)
 print(mob1.storage)
 Mobile.storage="1T"
 print(mob.storage)
+
 print(mob1.storage)
