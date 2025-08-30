@@ -1,4 +1,4 @@
-# 🎯 Custom Word Mapper using for loop
+#  Custom Word Mapper using for loop
 
 In = 'push maadi kushi padi'
 words = In.split()
@@ -13,4 +13,5 @@ for word in words:
         Out[word] = word[0] + word[-1]  
     else:
         Out[word] = "?" 
+
 print(f"Output: {Out}")
