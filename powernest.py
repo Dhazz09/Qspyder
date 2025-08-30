@@ -1,4 +1,4 @@
-# 🧠 Word Length Dictionary Builder (No len(), nested for loop)
+# Word Length Dictionary Builder (No len(), nested for loop)
 
 S = 'power star'
 words = []
@@ -16,4 +16,5 @@ for w in words:
     for ch in w:
         count += 1
     Out[w] = count
+
 print(f"Output: {Out}")
