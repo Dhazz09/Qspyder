@@ -1,4 +1,4 @@
-# 🔍 Negative Number Extractor
+# Negative Number Extractor
 
 def extract_negatives(numbers):
     negatives = []
@@ -8,4 +8,5 @@ def extract_negatives(numbers):
     return negatives
 sample_list = [10, -5, 0, -22, 7, -1, 3]
 result = extract_negatives(sample_list)
+
 print(f" Negative numbers: {result}")
