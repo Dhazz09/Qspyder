@@ -1,4 +1,4 @@
-# 🧠 Relationship Checker: Integer Edition
+# Relationship Checker: Integer Edition
 
 # Input two integers
 a = int(input("Enter the first number (a): "))
@@ -12,4 +12,5 @@ elif a < b:
 elif a == b:
     print(f"{a} is equal to {b} ")
 else:
+
     print("Unexpected input. ")
