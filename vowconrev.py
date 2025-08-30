@@ -1,4 +1,4 @@
-# 🔄 Vowel-Consonant-Middle Check with Reversal (Nested elif edition)
+#  Vowel-Consonant-Middle Check with Reversal (Nested elif edition)
 
 text = input("Enter a string to check and reverse: ")
 text_lower = text.lower()
@@ -23,4 +23,5 @@ if len(text_lower) > 0:
     else:
         print(" First character is invalid.")
 else:
+
     print(" Empty string. Nothing to check.")
