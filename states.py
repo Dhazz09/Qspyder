@@ -1,3 +1,4 @@
+#states of the properties
 class College:
     clgname="PANIMALAR ENGINEERING COLLEGE"   #generic properties
     loc="Chennai"
@@ -17,4 +18,5 @@ print(st1.roll)
 print(st2.clgname)
 print(st2.name)
 print(st2.roll)
+
 
