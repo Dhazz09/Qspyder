@@ -1,4 +1,4 @@
-# 🔁 Toggle Case with While Loop
+# Toggle Case with While Loop
 
 text = input("Enter a string to toggle: ")
 i = 0
@@ -12,4 +12,5 @@ while i < len(text):
     else:
         toggled += char  
     i += 1
+
 print(f"Toggled string: {toggled}")
