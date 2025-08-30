@@ -1,3 +1,4 @@
+#list methods
 def analyze_list_methods():
     sample = [1, 2, 3]
     print("Initial list:", sample)
@@ -50,4 +51,5 @@ def analyze_list_methods():
     print("clear():", sample)
 
 if __name__ == "__main__":
+
     analyze_list_methods()
