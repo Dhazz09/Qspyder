@@ -1,4 +1,4 @@
-# 🧠 Homogeneous Tuple Length Finder (No len(), using for loop)
+#  Homogeneous Tuple Length Finder (No len(), using for loop)
 
 
 my_tuple = (10, 20, 30, 40, 50) 
@@ -9,4 +9,5 @@ for item in my_tuple:
         count += 1
     else:
         break  
+
 print(f"Length of homogeneous tuple: {count}")
